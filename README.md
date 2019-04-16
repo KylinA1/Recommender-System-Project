@@ -13,7 +13,7 @@ Resources for Deep Recommender System
   - pandas
   - scipy  
 
-### Overview/Backgroud - must read papers
+### Overview/Backgroud - (must know)
 
 - [matrix factorization techniques for recommender systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 - SVD++ ([paper](https://www.cs.rochester.edu/twiki/pub/Main/HarpSeminar/Factorization_Meets_the_Neighborhood-_a_Multifaceted_Collaborative_Filtering_Model.pdf))
@@ -21,7 +21,7 @@ Resources for Deep Recommender System
 
 
 
-### Evaluation Method/ Metric
+### Evaluation Method/ Metric - (must know)
 
 - HR ([blog](https://towardsdatascience.com/evaluating-a-real-life-recommender-system-error-based-and-ranking-based-84708e3285b))
 
