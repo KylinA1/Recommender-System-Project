@@ -5,7 +5,10 @@ Resources for Deep Recommender System
 
 - deep learning frame: 
   - tensorflow/keras
-  - pytorch
+    - [tutorial](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
+    - [tutorial](https://github.com/aymericdamien/TensorFlow-Examples)
+  - pytorch 
+    - [tutorial](https://pytorch.org/tutorials/)
 - data preprocess (python library):
   - pandas
   - scipy  
