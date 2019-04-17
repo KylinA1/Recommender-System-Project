@@ -11,7 +11,6 @@ Resources for Deep Recommender System
     - [tutorial](https://pytorch.org/tutorials/)
 - data preprocess (python library):
   - pandas
-  - scipy  
 
 ### Overview/Backgroud - (must know)
 
