@@ -12,7 +12,7 @@ Resources for Deep Recommender System
     - [tutorial](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
     - [tutorial](https://github.com/aymericdamien/TensorFlow-Examples)
   - pytorch 
-    - [tutorial](https://pytorch.org/tutorials/)
+    - [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - data preprocess (python library):
   - pandas
 
