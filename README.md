@@ -43,7 +43,6 @@ Resources for Deep Recommender System
   - code
     - [pytorch](https://github.com/jmhessel/fmpytorch)
     - [sklearn](https://github.com/coreylynch/pyFM)
-    - 
 - BPR ([paper](https://arxiv.org/pdf/1205.2618.pdf))
   - code
     - [tensorflow](https://medium.com/radon-dev/implicit-bayesian-personalized-ranking-in-tensorflow-b4dfa733c478)
