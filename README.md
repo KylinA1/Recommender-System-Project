@@ -67,3 +67,6 @@ Resources for Deep Recommender System
 - Probabilistic MF ([paper](https://papers.nips.cc/paper/3208-probabilistic-matrix-factorization.pdf))
   - code
     - [sklearn](https://github.com/fuhailin/Probabilistic-Matrix-Factorization)
+    
+ ### More Resources
+ - [Deep-Learning-for-Recommendation-Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
