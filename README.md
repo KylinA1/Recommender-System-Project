@@ -16,6 +16,12 @@ Resources for Deep Recommender System
     - [tutorial](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - data preprocess (python library):
   - pandas
+  
+### Python Library
+- LightFm
+- [Surprise](http://surpriselib.com)
+- [Implicit](https://implicit.readthedocs.io/en/latest/)
+- Spotlight
 
 ### Overview/Backgroud - (must know)
 
