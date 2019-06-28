@@ -4,6 +4,7 @@ Resources for Deep Recommender System
 ### Dataset
 
 - [Retailrocket](<https://www.kaggle.com/retailrocket/ecommerce-dataset>)
+- [Jester](http://eigentaste.berkeley.edu/dataset/)
 
 ### Tools
 
