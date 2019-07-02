@@ -3,10 +3,12 @@ Resources for Deep Recommender System
 
 ### Dataset
 
+[Dataset](http://cseweb.ucsd.edu/~jmcauley/datasets.html)
+
 E-commerce
 - [Retailrocket](<https://www.kaggle.com/retailrocket/ecommerce-dataset>)
 
-- [Amazon](http://jmcauley.ucsd.edu/data/amazon/)
+- [Amazon](http://jmcauley.ucsd.edu/data/amazon/links.html)
 
 Movies
 -  [Movielens](https://grouplens.org/datasets/movielens/)
